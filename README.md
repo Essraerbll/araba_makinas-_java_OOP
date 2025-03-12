@@ -1,0 +1,1 @@
+This project is a Java application that simulates a car machine using **Object-Oriented Programming (OOP) principles**. It demonstrates the use of classes, **inheritance**, **polymorphism**, and **encapsulation** in Java.
